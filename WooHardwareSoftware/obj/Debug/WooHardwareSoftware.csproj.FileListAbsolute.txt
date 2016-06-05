@@ -9,3 +9,4 @@ C:\Users\JWoo\Documents\GitHub\WooHardwareSoftware\WooHardwareSoftware\bin\Debug
 C:\Users\JWoo\Documents\GitHub\WooHardwareSoftware\WooHardwareSoftware\bin\Debug\WooHardwareSoftware.pdb
 C:\Users\JWoo\Documents\GitHub\WooHardwareSoftware\WooHardwareSoftware\obj\Debug\WooHardwareSoftware.dll
 C:\Users\JWoo\Documents\GitHub\WooHardwareSoftware\WooHardwareSoftware\obj\Debug\WooHardwareSoftware.pdb
+C:\Users\JWoo\Documents\GitHub\WooHardwareSoftware\WooHardwareSoftware\obj\Debug\WooHardwareSoftware.csprojResolveAssemblyReference.cache
