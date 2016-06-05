@@ -1,0 +1,7 @@
+c:\users\jwoo\documents\visual studio 2015\Projects\WooHardwareSoftware\WooHardwareSoftware\bin\Debug\WooHardwareSoftware.dll
+c:\users\jwoo\documents\visual studio 2015\Projects\WooHardwareSoftware\WooHardwareSoftware\bin\Debug\WooHardwareSoftware.pdb
+c:\users\jwoo\documents\visual studio 2015\Projects\WooHardwareSoftware\WooHardwareSoftware\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\jwoo\documents\visual studio 2015\Projects\WooHardwareSoftware\WooHardwareSoftware\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\jwoo\documents\visual studio 2015\Projects\WooHardwareSoftware\WooHardwareSoftware\obj\Debug\WooHardwareSoftware.csprojResolveAssemblyReference.cache
+c:\users\jwoo\documents\visual studio 2015\Projects\WooHardwareSoftware\WooHardwareSoftware\obj\Debug\WooHardwareSoftware.dll
+c:\users\jwoo\documents\visual studio 2015\Projects\WooHardwareSoftware\WooHardwareSoftware\obj\Debug\WooHardwareSoftware.pdb
