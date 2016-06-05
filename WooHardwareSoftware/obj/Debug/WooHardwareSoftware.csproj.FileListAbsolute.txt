@@ -5,3 +5,7 @@ c:\users\jwoo\documents\visual studio 2015\Projects\WooHardwareSoftware\WooHardw
 c:\users\jwoo\documents\visual studio 2015\Projects\WooHardwareSoftware\WooHardwareSoftware\obj\Debug\WooHardwareSoftware.csprojResolveAssemblyReference.cache
 c:\users\jwoo\documents\visual studio 2015\Projects\WooHardwareSoftware\WooHardwareSoftware\obj\Debug\WooHardwareSoftware.dll
 c:\users\jwoo\documents\visual studio 2015\Projects\WooHardwareSoftware\WooHardwareSoftware\obj\Debug\WooHardwareSoftware.pdb
+C:\Users\JWoo\Documents\GitHub\WooHardwareSoftware\WooHardwareSoftware\bin\Debug\WooHardwareSoftware.dll
+C:\Users\JWoo\Documents\GitHub\WooHardwareSoftware\WooHardwareSoftware\bin\Debug\WooHardwareSoftware.pdb
+C:\Users\JWoo\Documents\GitHub\WooHardwareSoftware\WooHardwareSoftware\obj\Debug\WooHardwareSoftware.dll
+C:\Users\JWoo\Documents\GitHub\WooHardwareSoftware\WooHardwareSoftware\obj\Debug\WooHardwareSoftware.pdb
