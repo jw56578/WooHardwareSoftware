@@ -157,6 +157,8 @@ namespace WooHardwareSoftware
 
             //2 of clubs
             hand[2] = Convert.ToByte("00100001", 2);
+            //3 of clubs
+            hand[3] = Convert.ToByte("00100010", 2);
 
             byte card1 = hand[0], card2 = hand[1];
             Assert.AreEqual(CompareCardSuit(card1, card2), true);
@@ -164,6 +166,12 @@ namespace WooHardwareSoftware
             card1 = hand[0];
             card2 = hand[2];
             Assert.AreEqual(CompareCardSuit(card1, card2), false);
+
+            card1 = hand[2];
+            card2 = hand[3];
+            Assert.AreEqual(CompareCardValue(card1, card2), false);
+            Assert.AreEqual(CompareCardValue(card2, card1), true);
+
 
         }
         bool CompareCardSuit(byte card1, byte card2)
@@ -197,6 +205,17 @@ namespace WooHardwareSoftware
             suitsAreTheSame = !suitsAreTheSame;
 
             return suitsAreTheSame;
+        }
+        //is the first card of greater value than the seconds card
+        bool CompareCardValue(byte card1, byte card2)
+        {
+            //we are doing the exact same thing as the suit compare except for the value bits which are the 4 last ones
+            byte valueMask = 0x0F; //== 0000 1111
+            var card1Mask = (byte)(card1 & valueMask);
+            var card2Mask = (byte)(card2 & valueMask);
+            //you can use the comparison operators directly on a byte
+            var card1IsGreater = card1Mask > card2Mask;
+            return card1IsGreater;
         }
     }
 }
